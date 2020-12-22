@@ -1,2 +1,2 @@
-a,b,c=str(765)
-print( int( str(c) + str(b) + str(a) )* 2 )
+a,b,c=input('')
+print(int(c+b+a)*2)
